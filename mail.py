@@ -3,9 +3,9 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
 # Email configuration
-sender_email = "your_email@gmail.com"
-app_password = "your_app_password"
-receiver_email = "receiver_email@example.com"
+sender_email = "vaishalibhosleksit@@gmail.com"
+app_password = "**** **** **** ****"
+receiver_email = "vaishalibhosleksit@example.com"
 subject = "Underpass Management System Update"
 
 # Water level and vehicle status
